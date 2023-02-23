@@ -1,2 +1,2 @@
 # Pi Checker
-Trying to make a pi checker.
+##Somewhat of a demo Pi Checker.
